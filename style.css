@@ -28,6 +28,10 @@
     color: rgb(58, 47, 130);
     text-align: center;
   }
+
+  .button-container {
+    text-align: center;
+  }
   
   button {
     background-color: rgb(0, 102, 204);
